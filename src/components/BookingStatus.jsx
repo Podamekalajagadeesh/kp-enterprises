@@ -3,6 +3,11 @@ import { Container, Form, Button, Row, Col, Alert, Card, Badge } from 'react-boo
 import { useTranslation } from 'react-i18next';
 import { FaClock, FaCheckCircle, FaSpinner, FaTimesCircle, FaCalendarAlt } from 'react-icons/fa';
 
+// Generate a booking ID when someone submits the contact form (to integrate with existing ContactForm)
+export const generateBookingId = () => {
+  return 'BK' + Math.random().toString(36).substring(2, 6).toUpperCase();
+};
+
 const BookingStatus = () => {
   const { t } = useTranslation();
   const [bookingId, setBookingId] = useState('');
@@ -103,11 +108,6 @@ const BookingStatus = () => {
     }, 1000);
   };
 
-  // Generate a booking ID when someone submits the contact form (to integrate with existing ContactForm)
-  const generateBookingId = () => {
-    return 'BK' + Math.random().toString(36).substring(2, 6).toUpperCase();
-  };
-
   return (
     <Container id="booking-status" className="py-5 service-areas">
       <h2 className="text-center mb-5">{t('bookingStatus.title')}</h2>
@@ -167,5 +167,3 @@ const BookingStatus = () => {
 };
 
 export default BookingStatus;
-// Export the generateBookingId function so it can be used in ContactForm
-export { generateBookingId };
