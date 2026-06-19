@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# Vite
+.env
+.env.*
+dist
+.DS_Store
