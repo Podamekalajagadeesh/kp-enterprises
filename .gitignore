@@ -1,8 +1,16 @@
 # Dependencies
 /node_modules
+/server/node_modules
 
 # Vite
 .env
 .env.*
 dist
 .DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+Thumbs.db
