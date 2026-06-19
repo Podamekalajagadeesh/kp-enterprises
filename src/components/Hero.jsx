@@ -12,7 +12,7 @@ const Hero = () => {
           <Col>
             <h1>{t('hero.title')}</h1>
             <p>{t('hero.subtitle')}</p>
-            <Button variant="primary" href="#contact">{t('hero.button')}</Button>
+            <Button variant="primary" href="#contact" className="animate-float">{t('hero.button')}</Button>
           </Col>
         </Row>
       </Container>
