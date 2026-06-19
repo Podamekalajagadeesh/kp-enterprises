@@ -14,7 +14,7 @@ const Footer = () => {
             <p>{t('footer.description')}</p>
           </Col>
           <Col xs={12} md={6} className="text-md-end">
-            <p>{t('footer.contact')}: 95000 56535</p>
+            <p>{t('footer.contact')}: <a href="tel:+919500056535" className="text-light">95000 56535</a></p>
             <div>
               <a href="https://www.instagram.com/KPEnterprises" target="_blank" rel="noopener noreferrer" className="text-light">
                 <FaInstagram size={30} />
