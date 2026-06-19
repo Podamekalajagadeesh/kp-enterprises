@@ -6,6 +6,7 @@ body {
     color: #334155;
     line-height: 1.7;
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 
 /* Custom animations */
@@ -456,6 +457,82 @@ img {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     animation: slideInUp 1s ease-in-out;
+}
+
+/* Testimonials Section */
+.testimonials {
+    background-color: #f8fafc;
+    padding: 80px 0;
+}
+
+.testimonial-card {
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    background: #fff;
+}
+
+.testimonial-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Service Areas Section */
+.service-areas {
+    background-color: #fff;
+    padding: 80px 0;
+}
+
+.area-badge {
+    font-size: 1.1rem;
+    padding: 0.75rem 1.5rem;
+    transition: all 0.3s ease;
+    cursor: default;
+}
+
+.area-badge:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.4);
+}
+
+/* Floating WhatsApp Button */
+.whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.whatsapp-float:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 16px rgba(37, 211, 102, 0.6);
+    color: #fff;
+}
+
+@media (max-width: 576px) {
+    .whatsapp-float {
+        width: 50px;
+        height: 50px;
+        bottom: 20px;
+        right: 20px;
+    }
+    .whatsapp-float svg {
+        width: 28px;
+        height: 28px;
+    }
 }
 
 /* Footer */
