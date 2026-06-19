@@ -1,1 +1,134 @@
-{"nav": {"brand": "KP एन्टरप्राइज", "services": "सेवासभ", "about": "हमरा विषयमे", "contact": "सम्पर्क करू", "book": "एकरा बुक करू"}, "hero": {"title": "विशेषज्ञ यन्त्र मरम्मत सेवा", "subtitle": "अहाँके सभ घरेलू यन्त्रक लेल तेज, विश्वसनीय आ सस्ता मरम्मत समाधान।", "button": "सुरु करू"}, "services": {"title": "हमर सेवासभ", "items": [{"title": "AC मरम्मत", "description": "सभ प्रकारक एअर कंडीशनरक लेल विशेषज्ञ निदान आ मरम्मत।"}, {"title": "कूलर सेवा", "description": "हमर रख-रखाव आ मरम्मत सेवासँग अहाँक कूलर कुशलतासँग चलओ।"}, {"title": "रेफ्रिजरेटर मरम्मत", "description": "कूलिंग समस्यासँ लै के टुटल आइस मेकरधरि, हम सभ चीज ठीक करैत छी।"}, {"title": "वॉशिंग मशीन सेवा", "description": "हम लीकेजसँ लै के स्पिन साइकल समस्याधरि सभ चीज संभालैत छी।"}]}, "about": {"title": "किएक हमरा चुनू?", "features": [{"title": "प्रमाणित टेक्नीशियन", "description": "हमर टीम कोनो मरम्मत संभालव लेल पूर्ण रूपसँ प्रशिक्षित आ प्रमाणित छै।"}, {"title": "24/7 उपलब्धता", "description": "अहाँक सेवा करव लेल हम चौबीस घण्टा उपलब्ध छी।"}, {"title": "आगुक मूल्य निर्धारण", "description": "कोनो लुकल फीस नहि। हम सुरु करवसँ पहिने अहाँक स्पष्ट मूल्य मिलैत छै।"}]}, "contact": {"title": "सेवा बुक करू या सम्पर्क करू", "success": "अहाँक अनुरोधक लेल धन्यवाद! हम जल्दिए अहाँसँ सम्पर्क करब।", "error": "किछु गलत भेलै। कृपा करि पुनः प्रयास करू।", "form": {"name": "नाम", "namePlaceholder": "अहाँक नाम लिखू", "nameError": "कृपा करि अहाँक नाम लिखू।", "email": "इमेल पत्रा", "emailPlaceholder": "अहाँक इमेल लिखू", "emailError": "कृपा करि वैध इमेल पत्रा लिखू।", "service": "आवश्यक सेवा", "choose": "चुनू...", "message": "सन्देश", "messagePlaceholder": "अहाँक सन्देश लिखू", "messageError": "कृपा करि अहाँक सन्देश लिखू।", "submit": "जमा करू"}}, "footer": {"description": "यन्त्र मरम्मत लेल अहाँक वन-स्टॉप समाधान।", "contact": "हमरासँ सम्पर्क करू"}}
+{
+  "nav": {
+    "brand": "KP एन्टरप्राइजेज",
+    "services": "सेवा",
+    "about": "हमारे विषय में",
+    "contact": "संपर्क करें",
+    "book": "अभी बुक करें"
+  },
+  "hero": {
+    "title": "विशेषज्ञ उपकरण मरम्मत सेवाएं",
+    "subtitle": "आपके सभी घरेलू उपकरणों के लिए तेज, विश्वसनीय और किफायती मरम्मत समाधान।",
+    "button": "शुरू करें"
+  },
+  "services": {
+    "title": "हमारी सेवाएं",
+    "items": [
+      {
+        "title": "एसी मरम्मत",
+        "description": "सभी प्रकार के एयर कंडीशनर के लिए विशेषज्ञ निदान और मरम्मत।"
+      },
+      {
+        "title": "फ्रिज सेवा",
+        "description": "हमारी रखरखाव और मरम्मत सेवाओं के साथ अपने फ्रिज को कुशलता से चलाएं।"
+      },
+      {
+        "title": "फ्रिज मरम्मत",
+        "description": "कूलिंग समस्याओं से लेकर टूटे हुए आइस मेकर तक, हम सब कुछ ठीक करते हैं।"
+      },
+      {
+        "title": "वॉशिंग मशीन सेवा",
+        "description": "हम लीकेज से लेकर स्पिन साइकिल समस्याओं तक सब कुछ हैंडल करते हैं।"
+      }
+    ]
+  },
+  "about": {
+    "title": "हमें क्यों चुनें?",
+    "features": [
+      {
+        "title": "प्रमाणित तकनीशियन",
+        "description": "किसी भी मरम्मत को हैंडल करने के लिए हमारी टीम पूरी तरह से प्रशिक्षित और प्रमाणित है।"
+      },
+      {
+        "title": "24/7 उपलब्धता",
+        "description": "आपको सेवा प्रदान करने के लिए हम चौबीस घंटे उपलब्ध हैं।"
+      },
+      {
+        "title": "पूर्व-निर्धारित मूल्य",
+        "description": "कोई छिपा हुआ शुल्क नहीं। शुरू करने से पहले आपको स्पष्ट मूल्य मिलेगा।"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "items": [
+      {
+        "name": "Rajesh Kumar",
+        "location": "Chennai",
+        "text": "Excellent service! My AC was repaired the same day I called. The technician was very professional and knowledgeable. "
+      },
+      {
+        "name": "Priya Sharma",
+        "location": "Thiruvallur",
+        "text": "Great experience with KP Enterprises. They fixed my refrigerator at a very reasonable price. Highly recommend!"
+      },
+      {
+        "name": "Amit Patel",
+        "location": "Avadi",
+        "text": "Fast and reliable service. My washing machine broke down and they fixed it in a few hours. Would use again. "
+      }
+    ]
+  },
+  "serviceAreas": {
+    "title": "Areas We Serve",
+    "areas": [
+      "Chennai",
+      "Thiruvallur",
+      "Avadi",
+      "Poonamallee",
+      "Ambattur",
+      "Anna Nagar",
+      "T. Nagar",
+      "Adyar"
+    ]
+  },
+  "contact": {
+    "title": "Book a Service or Contact Us",
+    "success": "Thank you for your request! We will contact you shortly. ",
+    "error": "Something went wrong. Please try again. ",
+    "form": {
+      "name": "नाम",
+      "namePlaceholder": "अपना नाम दर्ज करें",
+      "nameError": "कृपया अपना नाम दर्ज करें।",
+      "email": "ईमेल पता",
+      "emailPlaceholder": "अपना ईमेल दर्ज करें",
+      "emailError": "कृपया मान्य ईमेल पता दर्ज करें।",
+      "service": "Need Service",
+      "choose": "Choose...",
+      "message": "संदेश",
+      "messagePlaceholder": "अपना संदेश दर्ज करें",
+      "messageError": "कृपया अपना संदेश दर्ज करें।",
+      "submit": "जमा करें"
+    }
+  },
+  "footer": {
+    "description": "Your one-stop solution for appliance repairs.",
+    "contact": "Contact Us"
+  },
+  "reviewForm": {
+    "title": "Leave a Review",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your full name",
+    "location": "Your Location",
+    "locationPlaceholder": "Enter your area (Chennai, Thiruvallur, Avadi, etc.)",
+    "text": "Your Review",
+    "textPlaceholder": "Write your experience with our services",
+    "submit": "Submit Review",
+    "success": "Thank you for your review! It has been published successfully.",
+    "error": "There was an error submitting your review. Please try again."
+  },
+  "bookingStatus": {
+    "title": "Check Your Booking Status",
+    "bookingId": "Booking ID",
+    "bookingIdPlaceholder": "Enter your booking ID (e.g., BK001)",
+    "check": "Check Status",
+    "notFound": "Booking not found. Please check your booking ID and try again.",
+    "statuses": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    }
+  }
+}

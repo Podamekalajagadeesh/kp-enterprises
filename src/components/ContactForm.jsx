@@ -3,13 +3,14 @@ import { Container, Form, Button, Row, Col, Alert } from 'react-bootstrap';
 import axios from 'axios';
 import { services } from '../servicesData.jsx';
 import { useTranslation } from 'react-i18next';
+import { generateBookingId } from './BookingStatus';
 
 const ContactForm = () => {
   const { t } = useTranslation();
   const [formData, setFormData] = useState({
     name: '',
     email: '',
-    service: t('contact.form.choose'),
+    service: '',
     message: ''
   });
   const [status, setStatus] = useState({ submitted: false, success: false, message: '' });
@@ -28,7 +29,7 @@ const ContactForm = () => {
       case 'email':
         return /\S+@\S+\.\S+/.test(value);
       case 'service':
-        return value !== t('contact.form.choose');
+        return value !== '';
       case 'message':
         return value.trim() !== '';
       default:
@@ -63,8 +64,23 @@ const ContactForm = () => {
       try {
         const response = await axios.post(import.meta.env.VITE_API_URL, formData);
         if (response.status === 200) {
-          setStatus({ submitted: true, success: true, message: t('contact.success') });
-          setFormData({ name: '', email: '', service: t('contact.form.choose'), message: '' });
+          // Generate unique booking ID and store it in localStorage for status tracking
+          const newBookingId = generateBookingId();
+          const newBooking = {
+            id: newBookingId,
+            date: new Date().toISOString().split('T')[0],
+            service: formData.service,
+            status: 'pending',
+            customerName: formData.name,
+            location: formData.message.match(/Chennai|Thiruvallur|Avadi|Poonamallee|Ambattur|Anna Nagar|T. Nagar|Adyar/)?.[0] || 'Chennai',
+            bookingId: newBookingId
+          };
+          const existingBookings = JSON.parse(localStorage.getItem('contactFormSubmissions') || '[]');
+          existingBookings.push(newBooking);
+          localStorage.setItem('contactFormSubmissions', JSON.stringify(existingBookings));
+          
+          setStatus({ submitted: true, success: true, message: `${t('contact.success')} Your booking ID is: ${newBookingId}. Save this to check your booking status later.` });
+          setFormData({ name: '', email: '', service: '', message: '' });
         }
       } catch (error) {
         setStatus({ submitted: true, success: false, message: t('contact.error') });

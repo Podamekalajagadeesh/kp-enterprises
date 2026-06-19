@@ -1,1 +1,134 @@
-{"nav": {"brand": "KP उद्यमानि", "services": "सेवाः", "about": "अस्मद्विषये", "contact": "सम्पर्कं कुर्वन्तु", "book": "अद्यैव बुकं कुर्वन्तु"}, "hero": {"title": "विशेषज्ञाः उपकरणमरम्मतसेवाः", "subtitle": "भवतां सर्वेषां गृहस्थउपकरणानां कृते शीघ्रं, विश्वसनीयं स्वल्पमूल्यंच मरम्मतसमाधानम्।", "button": "प्रारभताम्"}, "services": {"title": "अस्मदीयाः सेवाः", "items": [{"title": "एसी मरम्मतम्", "description": "सर्वप्रकाराणाम् एअरकण्डीशनराणां कृते विशेषज्ञनिदानं मरम्मतं च।"}, {"title": "कूलरसेवा", "description": "अस्मदीयरक्षणमरम्मतसेवाभिः भवतां कूलरं कुशलतया चलयन्तु।"}, {"title": "रेफ्रिजरेटरमरम्मतम्", "description": "कूलिंगसमस्येभ्यः आरभ्य भग्नानि आइसमेकराण्यन्तं, वयं सर्वं सुधरामः।"}, {"title": "वॉशिंगमशीनसेवा", "description": "वयं लीकेजतः आरभ्य स्पिनसाइकलसमस्याः सर्वाः संभालामः।"}]}, "about": {"title": "किमर्थं अस्मान् वरेण्यं?", "features": [{"title": "प्रमाणिताः टेक्नीशियनाः", "description": "अस्मदीयदलः कस्यापि मरम्मतस्य संभालनाय पूर्णतया प्रशिक्षितं प्रमाणितं च अस्ति।"}, {"title": "24/7 उपलब्धता", "description": "भवतां सेवां कर्तुं वयं चतुर्विंशतिघंटाः उपलब्धाः स्मः।"}, {"title": "आगम्यं मूल्यनिर्धारणम्", "description": "काचिदपि गुप्तशुल्कं नास्ति। प्रारभते पूर्वं वयं भवते स्पष्टं मूल्यं दामः।"}]}, "contact": {"title": "सेवां बुकं कुर्वन्तु वा सम्पर्कं कुर्वन्तु", "success": "भवतां अनुरोधाय धन्यवादम्! वयं शीघ्रमेव भवता सह सम्पर्कं करिष्यामः।", "error": "किञ्चिद्गलतं जातम्। कृपया पुनः प्रयत्नं कुर्वन्तु।", "form": {"name": "नाम", "namePlaceholder": "भवतां नाम लिखन्तु", "nameError": "कृपया भवतां नाम लिखन्तु।", "email": "इमेलपत्तनम्", "emailPlaceholder": "भवतां इमेलं लिखन्तु", "emailError": "कृपया वैधम् इमेलपत्तनं लिखन्तु।", "service": "आवश्यकसेवा", "choose": "वरेण्यन्तु...", "message": "सन्देशः", "messagePlaceholder": "भवतां सन्देशं लिखन्तु", "messageError": "कृपया भवतां सन्देशं लिखन्तु।", "submit": "प्रस्थापयन्तु"}}, "footer": {"description": "उपकरणमरम्मतस्य कृते भवतां एकस्थानकसमाधानम्।", "contact": "अस्माभिः सह सम्पर्कं कुर्वन्तु"}}
+{
+  "nav": {
+    "brand": "KP संस्था",
+    "services": "सेवाः",
+    "about": "अस्माभिः",
+    "contact": "संपर्कं कुर्वन्तु",
+    "book": "अधुना बुकं कुर्वन्तु"
+  },
+  "hero": {
+    "title": "विशेषज्ञोपकरणमरम्मतसेवाः",
+    "subtitle": "तव सर्वस्य गृहोपकरणस्य क्षिप्रा विश्वसनीया सस्ता च मरम्मतसमाधानम्।",
+    "button": "प्रारभ्यताम्"
+  },
+  "services": {
+    "title": "अस्माकं सेवाः",
+    "items": [
+      {
+        "title": "एसी मरम्मतम्",
+        "description": "सर्वप्रकाराणाम् एअरकण्डीशनरस्य विशेषज्ञनिदानं मरम्मतं च।"
+      },
+      {
+        "title": "फ्रिजसेवा",
+        "description": "अस्माकं परिरक्षणमरम्मतसेवाभिः स्वफ्रिजं कुशलतया चलय।"
+      },
+      {
+        "title": "फ्रिजमरम्मतम्",
+        "description": "शीतलतासमस्येभ्यः भग्नस्य आइसमेकरस्य पर्यन्तं, वयं सर्वं सुधरामः।"
+      },
+      {
+        "title": "वाशिंगमशीनसेवा",
+        "description": "वयं लीकेजतः स्पिनसाइकिलसमस्यापर्यन्तं सर्वं ह्यन्डलं कुर्मः।"
+      }
+    ]
+  },
+  "about": {
+    "title": "किमर्थं अस्मान् चिन्वन्तु?",
+    "features": [
+      {
+        "title": "प्रमाणिततक्निशियन्",
+        "description": "कस्यापि मरम्मतस्य ह्यन्डलं कर्तुं अस्माकं दलं पूर्णतः प्रशिक्षितं प्रमाणितं च अस्ति।"
+      },
+      {
+        "title": "24/7 उपलब्धता",
+        "description": "तुभ्यम् सेवां दातुं वयं चतुर्विंशतिघण्टाः उपलब्धाः स्मः।"
+      },
+      {
+        "title": "पूर्वनिर्धारितमूल्यं",
+        "description": "किञ्चिदपि गुप्तं शुल्कं नास्ति। प्रारभते पूर्वं तुभ्यं स्पष्टं मूल्यं प्राप्स्यति।"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "items": [
+      {
+        "name": "Rajesh Kumar",
+        "location": "Chennai",
+        "text": "Excellent service! My AC was repaired the same day I called. The technician was very professional and knowledgeable. "
+      },
+      {
+        "name": "Priya Sharma",
+        "location": "Thiruvallur",
+        "text": "Great experience with KP Enterprises. They fixed my refrigerator at a very reasonable price. Highly recommend!"
+      },
+      {
+        "name": "Amit Patel",
+        "location": "Avadi",
+        "text": "Fast and reliable service. My washing machine broke down and they fixed it in a few hours. Would use again. "
+      }
+    ]
+  },
+  "serviceAreas": {
+    "title": "Areas We Serve",
+    "areas": [
+      "Chennai",
+      "Thiruvallur",
+      "Avadi",
+      "Poonamallee",
+      "Ambattur",
+      "Anna Nagar",
+      "T. Nagar",
+      "Adyar"
+    ]
+  },
+  "contact": {
+    "title": "Book a Service or Contact Us",
+    "success": "Thank you for your request! We will contact you shortly. ",
+    "error": "Something went wrong. Please try again. ",
+    "form": {
+      "name": "नाम",
+      "namePlaceholder": "तव नाम लिखतु",
+      "nameError": "कृपया तव नाम लिखतु।",
+      "email": "ईमेलपता",
+      "emailPlaceholder": "तव ईमेलं लिखतु",
+      "emailError": "कृपया वैधं ईमेलपतां लिखतु।",
+      "service": "Need Service",
+      "choose": "Choose...",
+      "message": "सन्देशः",
+      "messagePlaceholder": "तव सन्देशं लिखतु",
+      "messageError": "कृपया तव सन्देशं लिखतु।",
+      "submit": "प्रेषयतु"
+    }
+  },
+  "footer": {
+    "description": "Your one-stop solution for appliance repairs.",
+    "contact": "Contact Us"
+  },
+  "reviewForm": {
+    "title": "Leave a Review",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your full name",
+    "location": "Your Location",
+    "locationPlaceholder": "Enter your area (Chennai, Thiruvallur, Avadi, etc.)",
+    "text": "Your Review",
+    "textPlaceholder": "Write your experience with our services",
+    "submit": "Submit Review",
+    "success": "Thank you for your review! It has been published successfully.",
+    "error": "There was an error submitting your review. Please try again."
+  },
+  "bookingStatus": {
+    "title": "Check Your Booking Status",
+    "bookingId": "Booking ID",
+    "bookingIdPlaceholder": "Enter your booking ID (e.g., BK001)",
+    "check": "Check Status",
+    "notFound": "Booking not found. Please check your booking ID and try again.",
+    "statuses": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    }
+  }
+}

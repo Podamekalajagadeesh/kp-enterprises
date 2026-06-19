@@ -1,1 +1,134 @@
-{"nav": {"brand": "KP एंटरप्राइजेज", "services": "सेवाएं", "about": "हमारे बारे में", "contact": "संपर्क करें", "book": "अभी बुक करें"}, "hero": {"title": "विशेषज्ञ उपकरण मरम्मत सेवाएं", "subtitle": "आपके सभी घरेलू उपकरणों के लिए तेज़, विश्वसनीय और किफायती मरम्मत समाधान।", "button": "शुरू करें"}, "services": {"title": "हमारी सेवाएं", "items": [{"title": "AC मरम्मत", "description": "सभी प्रकार के एयर कंडीशनरों के लिए विशेषज्ञ निदान और मरम्मत।"}, {"title": "कूलर सर्विस", "description": "हमारी रखरखाव और मरम्मत सेवाओं के साथ अपने कूलर को कुशलतापूर्वक चलाएं।"}, {"title": "रेफ्रिजरेटर मरम्मत", "description": "कूलिंग समस्याओं से लेकर टूटे आइस मेकर तक, हम सब कुछ ठीक करते हैं।"}, {"title": "वॉशिंग मशीन सर्विस", "description": "हम लीक से लेकर स्पिन साइकिल समस्याओं तक हर चीज को संभालते हैं।"}]}, "about": {"title": "क्यों हमें चुनें?", "features": [{"title": "प्रमाणित तकनीशियन", "description": "हमारी टीम किसी भी मरम्मत को संभालने के लिए पूरी तरह से प्रशिक्षित और प्रमाणित है।"}, {"title": "24/7 उपलब्धता", "description": "आपकी सेवा के लिए हम चौबीसों घंटे उपलब्ध हैं।"}, {"title": "पारदर्शी मूल्य निर्धारण", "description": "कोई छिपा हुआ शुल्क नहीं। हम शुरू करने से पहले आपको स्पष्ट कीमत मिलती है।"}]}, "contact": {"title": "सेवा बुक करें या संपर्क करें", "success": "आपके अनुरोध के लिए धन्यवाद! हम जल्द ही आपसे संपर्क करेंगे।", "error": "कुछ गलत हो गया। कृपया पुनः प्रयास करें।", "form": {"name": "नाम", "namePlaceholder": "अपना नाम दर्ज करें", "nameError": "कृपया अपना नाम दर्ज करें।", "email": "ईमेल पता", "emailPlaceholder": "अपना ईमेल दर्ज करें", "emailError": "कृपया एक वैध ईमेल पता दर्ज करें।", "service": "आवश्यक सेवा", "choose": "चुनें...", "message": "संदेश", "messagePlaceholder": "अपना संदेश दर्ज करें", "messageError": "कृपया अपना संदेश दर्ज करें।", "submit": "जमा करें"}}, "footer": {"description": "उपकरण मरम्मत के लिए आपका वन-स्टॉप समाधान।", "contact": "संपर्क करें"}}
+{
+  "nav": {
+    "brand": "KP एंटरप्राइजेज",
+    "services": "सेवाएं",
+    "about": "हमारे बारे में",
+    "contact": "संपर्क करें",
+    "book": "अभी बुक करें"
+  },
+  "hero": {
+    "title": "विशेषज्ञ उपकरण मरम्मत सेवाएं",
+    "subtitle": "आपके सभी घरेलू उपकरणों के लिए तेज़, विश्वसनीय और किफायती मरम्मत समाधान।",
+    "button": "शुरू करें"
+  },
+  "services": {
+    "title": "हमारी सेवाएं",
+    "items": [
+      {
+        "title": "एसी मरम्मत",
+        "description": "सभी प्रकार के एयर कंडीशनरों के लिए विशेषज्ञ निदान और मरम्मत। "
+      },
+      {
+        "title": "फ्रिज सेवा",
+        "description": "हमारी रखरखाव और मरम्मत सेवाओं के साथ अपने फ्रिज को कुशलतापूर्वक चलाएं। "
+      },
+      {
+        "title": "फ्रिज मरम्मत",
+        "description": "कूलिंग समस्याओं से लेकर टूटे हुए आइस मेकर तक, हम सब कुछ ठीक करते हैं। "
+      },
+      {
+        "title": "वॉशिंग मशीन सेवा",
+        "description": "हम लीक से लेकर स्पिन साइकिल की समस्याओं तक सब कुछ संभालते हैं। "
+      }
+    ]
+  },
+  "about": {
+    "title": "हमें क्यों चुनें?",
+    "features": [
+      {
+        "title": "प्रमाणित तकनीशियन",
+        "description": "हमारी टीम किसी भी मरम्मत को संभालने के लिए पूरी तरह से प्रशिक्षित और प्रमाणित है। "
+      },
+      {
+        "title": "24/7 उपलब्धता",
+        "description": "हम आपकी सेवा के लिए चौबीसों घंटे उपलब्ध हैं। "
+      },
+      {
+        "title": "पूर्व-निर्धारित मूल्य",
+        "description": "कोई छिपा हुआ शुल्क नहीं। शुरू करने से पहले आपको स्पष्ट मूल्य मिलता है। "
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "हमारे ग्राहक क्या कहते हैं",
+    "items": [
+      {
+        "name": "राजेश कुमार",
+        "location": "Chennai",
+        "text": "बेहतरीन सेवा! मैंने जिस दिन कॉल किया, उसी दिन मेरा एसी ठीक हो गया। तकनीशियन बहुत पेशेवर और जानकार था। "
+      },
+      {
+        "name": "प्रिया शर्मा",
+        "location": "Thiruvallur",
+        "text": "KP एंटरप्राइजेज के साथ शानदार अनुभव। उन्होंने बहुत उचित कीमत पर मेरा फ्रिज ठीक किया। अत्यधिक अनुशंसा करता हूं!"
+      },
+      {
+        "name": "अमित पटेल",
+        "location": "Avadi",
+        "text": "तेज़ और विश्वसनीय सेवा। मेरी वॉशिंग मशीन खराब हो गई थी और उन्होंने कुछ ही घंटों में ठीक कर दिया। फिर से उपयोग करूंगा। "
+      }
+    ]
+  },
+  "serviceAreas": {
+    "title": "हम जिन क्षेत्रों में सेवा करते हैं",
+    "areas": [
+      "चेन्नई",
+      "तिरुवल्लुर",
+      "आवड़ी",
+      "पूनमल्ली",
+      "अम्बत्तूर",
+      "अन्ना नगर",
+      "टी. नगर",
+      "अड्यार"
+    ]
+  },
+  "contact": {
+    "title": "सेवा बुक करें या संपर्क करें",
+    "success": "आपके अनुरोध के लिए धन्यवाद! हम जल्द ही आपसे संपर्क करेंगे। ",
+    "error": "कुछ गलत हुआ। कृपया पुनः प्रयास करें। ",
+    "form": {
+      "name": "नाम",
+      "namePlaceholder": "अपना नाम दर्ज करें",
+      "nameError": "कृपया अपना नाम दर्ज करें। ",
+      "email": "ईमेल पता",
+      "emailPlaceholder": "अपना ईमेल दर्ज करें",
+      "emailError": "कृपया एक वैध ईमेल पता दर्ज करें। ",
+      "service": "आवश्यक सेवा",
+      "choose": "चुनें...",
+      "message": "संदेश",
+      "messagePlaceholder": "अपना संदेश दर्ज करें",
+      "messageError": "कृपया अपना संदेश दर्ज करें। ",
+      "submit": "जमा करें"
+    }
+  },
+  "footer": {
+    "description": "उपकरण मरम्मत के लिए आपका वन-स्टॉप समाधान।",
+    "contact": "संपर्क करें"
+  },
+  "reviewForm": {
+    "title": "Leave a Review",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your full name",
+    "location": "Your Location",
+    "locationPlaceholder": "Enter your area (Chennai, Thiruvallur, Avadi, etc.)",
+    "text": "Your Review",
+    "textPlaceholder": "Write your experience with our services",
+    "submit": "Submit Review",
+    "success": "Thank you for your review! It has been published successfully.",
+    "error": "There was an error submitting your review. Please try again."
+  },
+  "bookingStatus": {
+    "title": "Check Your Booking Status",
+    "bookingId": "Booking ID",
+    "bookingIdPlaceholder": "Enter your booking ID (e.g., BK001)",
+    "check": "Check Status",
+    "notFound": "Booking not found. Please check your booking ID and try again.",
+    "statuses": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    }
+  }
+}

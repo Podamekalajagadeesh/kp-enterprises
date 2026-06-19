@@ -1,1 +1,134 @@
-{"nav": {"brand": "KP এণ্টাৰপ্ৰাইজেছ", "services": "সেৱাসমূহ", "about": "আমাৰ বিষয়ে", "contact": "যোগাযোগ কৰক", "book": "এতিয়াই বুক কৰক"}, "hero": {"title": "বিশেষজ্ঞ সঁজুলি মেৰামতি সেৱা", "subtitle": "আপোনাৰ সকলো ঘৰুৱা সঁজুলিৰ বাবে দ্ৰুত, নিৰ্ভৰযোগ্য আৰু সাশ্ৰয়যোগ্য মেৰামতি সমাধান।", "button": "আৰম্ভ কৰক"}, "services": {"title": "আমাৰ সেৱাসমূহ", "items": [{"title": "এচি মেৰামতি", "description": "সকলো প্ৰকাৰৰ এয়াৰ কণ্ডিচনাৰৰ বাবে বিশেষজ্ঞ নিৰ্ণয় আৰু মেৰামতি।"}, {"title": "কুলাৰ সেৱা", "description": "আমাৰ ৰক্ষণাবেক্ষণ আৰু মেৰামতি সেৱাৰে আপোনাৰ কুলাৰ দক্ষতাৰে চলাই ৰাখক।"}, {"title": "ৰেফ্ৰিজেৰেটৰ মেৰামতি", "description": "কুঁলিঙ সমস্যাৰ পৰা ভাঙি যোৱা আইচ মেকাৰলৈকে, আমি সকলো ঠিক কৰোঁ।"}, {"title": "ৱাশ্বিং মেচিন সেৱা", "description": "আমি লিকেজৰ পৰা স্পিন চাইকেলৰ সমস্যালৈকে সকলো সামলাওঁ।"}]}, "about": {"title": "কিয়নো আমাক বাছিব?", "features": [{"title": "প্ৰমাণিত টেকনিচিয়ান", "description": "যিকোনো মেৰামতি সামলাবলৈ আমাৰ টিম সম্পূৰ্ণৰূপে প্ৰশিক্ষিত আৰু প্ৰমাণিত।"}, {"title": "24/7 উপলব্ধতা", "description": "আপোনাৰ সেৱা কৰিবলৈ আমি চতুৰ্দিকে উপলব্ধ।"}, {"title": "আগতীয়া মূল্য নিৰ্ধাৰণ", "description": "কোনো লুকাই থকা শুল্ক নাই। আমি আৰম্ভ কৰাৰ আগতে আপোনাক স্পষ্ট মূল্য দিওঁ।"}]}, "contact": {"title": "সেৱা বুক কৰক বা যোগাযোগ কৰক", "success": "আপোনাৰ অনুৰোধৰ বাবে ধন্যবাদ! আমি শীঘ্ৰেই আপোনাৰ সৈতে যোগাযোগ কৰিম।", "error": "কিবা ভুল হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।", "form": {"name": "নাম", "namePlaceholder": "আপোনাৰ নাম লিখক", "nameError": "অনুগ্ৰহ কৰি আপোনাৰ নাম লিখক।", "email": "ইমেইল ঠিকনা", "emailPlaceholder": "আপোনাৰ ইমেইল লিখক", "emailError": "অনুগ্ৰহ কৰি বৈধ ইমেইল ঠিকনা লিখক।", "service": "প্ৰয়োজনীয় সেৱা", "choose": "বাছক...", "message": "বাৰ্তা", "messagePlaceholder": "আপোনাৰ বাৰ্তা লিখক", "messageError": "অনুগ্ৰহ কৰি আপোনাৰ বাৰ্তা লিখক।", "submit": "জমা দিন"}}, "footer": {"description": "সঁজুলি মেৰামতিৰ বাবে আপোনাৰ একমাত্ৰ সমাধান।", "contact": "আমাৰ সৈতে যোগাযোগ কৰক"}}
+{
+  "nav": {
+    "brand": "KP উদ্যোগ",
+    "services": "সেৱাসমূহ",
+    "about": "আমাৰ বিষয়ে",
+    "contact": "যোগাযোগ কৰক",
+    "book": "এতিয়াই বুক কৰক"
+  },
+  "hero": {
+    "title": "বিশেষজ্ঞ সঁজুলি মেৰামতি সেৱা",
+    "subtitle": "আপোনাৰ সকলো ঘৰুৱা সঁজুলিৰ বাবে দ্ৰুত, নিৰ্ভৰযোগ্য আৰু সাশ্ৰয়জনক মেৰামতিৰ সমাধান।",
+    "button": "আৰম্ভ কৰক"
+  },
+  "services": {
+    "title": "আমাৰ সেৱাসমূহ",
+    "items": [
+      {
+        "title": "এচি মেৰামতি",
+        "description": "সকলো প্ৰকাৰৰ এয়াৰ কণ্ডিশনাৰৰ বাবে বিশেষজ্ঞ নিৰ্ণয় আৰু মেৰামতি।"
+      },
+      {
+        "title": "ফ্ৰিজ সেৱা",
+        "description": "আমাৰ ৰক্ষণাবেক্ষণ আৰু মেৰামতি সেৱাৰে আপোনাৰ ফ্ৰিজ দক্ষতাৰে চলাই ৰাখক।"
+      },
+      {
+        "title": "ৰেফ্ৰিজাৰেটৰ মেৰামতি",
+        "description": "কুলিঙৰ সমস্যাৰ পৰা ভাঙিল আইছ মেকাৰলৈকে, আমি সকলো ঠিক কৰোঁ।"
+      },
+      {
+        "title": "ৱাশ্বিং মেচিন সেৱা",
+        "description": "আমি লিকেজৰ পৰা স্পিন চাইকেলৰ সমস্যালৈকে সকলো হেণ্ডেল কৰোঁ।"
+      }
+    ]
+  },
+  "about": {
+    "title": "কিয় আমাক বাছনি কৰিব?",
+    "features": [
+      {
+        "title": "প্ৰমাণিত টেকনিচিয়ান",
+        "description": "যিকোনো মেৰামতি হেণ্ডেল কৰিবলৈ আমাৰ টিম সম্পূৰ্ণৰূপে প্ৰশিক্ষিত আৰু প্ৰমাণিত।"
+      },
+      {
+        "title": "24/7 উপলব্ধতা",
+        "description": "আপোনাক সেৱা কৰিবলৈ আমি চব্বিশ ঘণ্টাই উপলব্ধ।"
+      },
+      {
+        "title": "পূৰ্ব-নিৰ্ধাৰিত মূল্য",
+        "description": "কোনো লুকোচুৰি ফিছ নাই। আৰম্ভ কৰাৰ আগতেই আপোনাক স্পষ্ট মূল্য পোৱা যাবে।"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "items": [
+      {
+        "name": "Rajesh Kumar",
+        "location": "Chennai",
+        "text": "Excellent service! My AC was repaired the same day I called. The technician was very professional and knowledgeable. "
+      },
+      {
+        "name": "Priya Sharma",
+        "location": "Thiruvallur",
+        "text": "Great experience with KP Enterprises. They fixed my refrigerator at a very reasonable price. Highly recommend!"
+      },
+      {
+        "name": "Amit Patel",
+        "location": "Avadi",
+        "text": "Fast and reliable service. My washing machine broke down and they fixed it in a few hours. Would use again. "
+      }
+    ]
+  },
+  "serviceAreas": {
+    "title": "Areas We Serve",
+    "areas": [
+      "Chennai",
+      "Thiruvallur",
+      "Avadi",
+      "Poonamallee",
+      "Ambattur",
+      "Anna Nagar",
+      "T. Nagar",
+      "Adyar"
+    ]
+  },
+  "contact": {
+    "title": "Book a Service or Contact Us",
+    "success": "Thank you for your request! We will contact you shortly. ",
+    "error": "Something went wrong. Please try again. ",
+    "form": {
+      "name": "নাম",
+      "namePlaceholder": "আপোনাৰ নাম লিখক",
+      "nameError": "অনুগ্ৰহ কৰি আপোনাৰ নাম লিখক।",
+      "email": "ইমেইল ঠিকনা",
+      "emailPlaceholder": "আপোনাৰ ইমেইল লিখক",
+      "emailError": "অনুগ্ৰহ কৰি বৈধ ইমেইল ঠিকনা লিখক।",
+      "service": "Need Service",
+      "choose": "Choose...",
+      "message": "বাৰ্তা",
+      "messagePlaceholder": "আপোনাৰ বাৰ্তা লিখক",
+      "messageError": "অনুগ্ৰহ কৰি আপোনাৰ বাৰ্তা লিখক।",
+      "submit": "জমা দিয়ক"
+    }
+  },
+  "footer": {
+    "description": "Your one-stop solution for appliance repairs.",
+    "contact": "Contact Us"
+  },
+  "reviewForm": {
+    "title": "Leave a Review",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your full name",
+    "location": "Your Location",
+    "locationPlaceholder": "Enter your area (Chennai, Thiruvallur, Avadi, etc.)",
+    "text": "Your Review",
+    "textPlaceholder": "Write your experience with our services",
+    "submit": "Submit Review",
+    "success": "Thank you for your review! It has been published successfully.",
+    "error": "There was an error submitting your review. Please try again."
+  },
+  "bookingStatus": {
+    "title": "Check Your Booking Status",
+    "bookingId": "Booking ID",
+    "bookingIdPlaceholder": "Enter your booking ID (e.g., BK001)",
+    "check": "Check Status",
+    "notFound": "Booking not found. Please check your booking ID and try again.",
+    "statuses": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    }
+  }
+}

@@ -1,1 +1,134 @@
-{"nav": {"brand": "KP Enterprises", "services": "Services", "about": "About", "contact": "Contact", "book": "Book Now"}, "hero": {"title": "Expert Appliance Repair Services", "subtitle": "Fast, reliable, and affordable repair solutions for all your home appliances.", "button": "Get Started"}, "services": {"title": "Our Services", "items": [{"title": "AC Repair", "description": "Expert diagnosis and repair for all types of air conditioners."}, {"title": "Cooler Service", "description": "Keep your cooler running efficiently with our maintenance and repair services."}, {"title": "Refrigerator Repair", "description": "From cooling issues to broken ice makers, we fix it all."}, {"title": "Washing Machine Service", "description": "We handle everything from leaks to spin cycle problems."}]}, "about": {"title": "Why Choose Us?", "features": [{"title": "Certified Technicians", "description": "Our team is fully trained and certified to handle any repair."}, {"title": "24/7 Availability", "description": "We are available around the clock to serve you."}, {"title": "Upfront Pricing", "description": "No hidden fees. You get a clear price before we start."}]}, "contact": {"title": "Book a Service or Get in Touch", "success": "Thank you for your request! We will get back to you shortly.", "error": "Something went wrong. Please try again.", "form": {"name": "Name", "namePlaceholder": "Enter your name", "nameError": "Please enter your name.", "email": "Email address", "emailPlaceholder": "Enter your email", "emailError": "Please enter a valid email address.", "service": "Service Needed", "choose": "Choose...", "message": "Message", "messagePlaceholder": "Enter your message", "messageError": "Please enter your message.", "submit": "Submit"}}, "footer": {"description": "Your one-stop solution for appliance repairs.", "contact": "Contact us"}}
+{
+  "nav": {
+    "brand": "KP Enterprises",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "book": "Book Now"
+  },
+  "hero": {
+    "title": "Expert Appliance Repair Services",
+    "subtitle": "Fast, reliable, and affordable repair solutions for all your home appliances.",
+    "button": "Get Started"
+  },
+  "services": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "AC Repair",
+        "description": "Expert diagnosis and repair for all types of air conditioners."
+      },
+      {
+        "title": "Cooler Service",
+        "description": "Keep your cooler running efficiently with our maintenance and repair services."
+      },
+      {
+        "title": "Refrigerator Repair",
+        "description": "From cooling issues to broken ice makers, we fix it all."
+      },
+      {
+        "title": "Washing Machine Service",
+        "description": "We handle everything from leaks to spin cycle problems."
+      }
+    ]
+  },
+  "about": {
+    "title": "Why Choose Us?",
+    "features": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our team is fully trained and certified to handle any repair."
+      },
+      {
+        "title": "24/7 Availability",
+        "description": "We are available around the clock to serve you."
+      },
+      {
+        "title": "Upfront Pricing",
+        "description": "No hidden fees. You get a clear price before we start."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "items": [
+      {
+        "name": "Rajesh Kumar",
+        "location": "Chennai",
+        "text": "Excellent service! My AC was fixed the same day I called. The technician was very professional and knowledgeable."
+      },
+      {
+        "name": "Priya Sharma",
+        "location": "Thiruvallur",
+        "text": "Great experience with KP Enterprises. They repaired my refrigerator at a very reasonable price. Highly recommend!"
+      },
+      {
+        "name": "Amit Patel",
+        "location": "Avadi",
+        "text": "Fast and reliable service. My washing machine was broken and they fixed it within hours. Will definitely use again."
+      }
+    ]
+  },
+  "serviceAreas": {
+    "title": "Areas We Serve",
+    "areas": [
+      "Chennai",
+      "Thiruvallur",
+      "Avadi",
+      "Poonamallee",
+      "Ambattur",
+      "Anna Nagar",
+      "T. Nagar",
+      "Adyar"
+    ]
+  },
+  "contact": {
+    "title": "Book a Service or Get in Touch",
+    "success": "Thank you for your request! We will get back to you shortly.",
+    "error": "Something went wrong. Please try again.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Enter your name",
+      "nameError": "Please enter your name.",
+      "email": "Email address",
+      "emailPlaceholder": "Enter your email",
+      "emailError": "Please enter a valid email address.",
+      "service": "Service Needed",
+      "choose": "Choose...",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message",
+      "messageError": "Please enter your message.",
+      "submit": "Submit"
+    }
+  },
+  "footer": {
+    "description": "Your one-stop solution for appliance repairs.",
+    "contact": "Contact us"
+  },
+  "reviewForm": {
+    "title": "Leave a Review",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your full name",
+    "location": "Your Location",
+    "locationPlaceholder": "Enter your area (Chennai, Thiruvallur, Avadi, etc.)",
+    "text": "Your Review",
+    "textPlaceholder": "Write your experience with our services",
+    "submit": "Submit Review",
+    "success": "Thank you for your review! It has been published successfully.",
+    "error": "There was an error submitting your review. Please try again."
+  },
+  "bookingStatus": {
+    "title": "Check Your Booking Status",
+    "bookingId": "Booking ID",
+    "bookingIdPlaceholder": "Enter your booking ID (e.g., BK001)",
+    "check": "Check Status",
+    "notFound": "Booking not found. Please check your booking ID and try again.",
+    "statuses": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    }
+  }
+}

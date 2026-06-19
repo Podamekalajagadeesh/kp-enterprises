@@ -1,1 +1,134 @@
-{"nav": {"brand": "KP এন্টারপ্রাইজ", "services": "সেবাসমূহ", "about": "আমাদের সম্পর্কে", "contact": "যোগাযোগ করুন", "book": "এখনই বুক করুন"}, "hero": {"title": "বিশেষজ্ঞ অ্যাপ্লায়েন্স মেরামত সেবা", "subtitle": "আপনার সমস্ত বাড়ির যন্ত্রপাতির জন্য দ্রুত, নির্ভরযোগ্য এবং সাশ্রয়ী মেরামত সমাধান।", "button": "শুরু করুন"}, "services": {"title": "আমাদের সেবাসমূহ", "items": [{"title": "এসি মেরামত", "description": "সব ধরনের এয়ার কন্ডিশনারের জন্য বিশেষজ্ঞ নির্ণয় এবং মেরামত।"}, {"title": "কুলার সার্ভিস", "description": "আমাদের রক্ষণাবেক্ষণ এবং মেরামত সেবার মাধ্যমে আপনার কুলারকে দক্ষতার সাথে চালু রাখুন।"}, {"title": "রেফ্রিজারেটর মেরামত", "description": "কুলিং সমস্যা থেকে ভেঙ্গে যাওয়া আইস মেকার পর্যন্ত, আমরা সবকিছু ঠিক করি।"}, {"title": "ওয়াশিং মেশিন সার্ভিস", "description": "লিকেজ থেকে স্পিন সাইকেল সমস্যা পর্যন্ত সবকিছু আমরা সামলাই।"}]}, "about": {"title": "কেন আমাদের বেছে নেবেন?", "features": [{"title": "সার্টিফাইড টেকনিশিয়ান", "description": "আমাদের টিম যেকোনো মেরামত সামলানোর জন্য সম্পূর্ণ প্রশিক্ষিত এবং প্রত্যয়িত।"}, {"title": "24/7 উপলব্ধতা", "description": "আপনার সেবা করার জন্য আমরা চব্বিশ ঘন্টা উপলব্ধ।"}, {"title": "আগাম মূল্য নির্ধারণ", "description": "কোনো লুকোচুরি ফি নেই। আমরা শুরু করার আগে আপনাকে স্পষ্ট মূল্য দিই।"}]}, "contact": {"title": "সেবা বুক করুন বা যোগাযোগ করুন", "success": "আপনার অনুরোধের জন্য ধন্যবাদ! আমরা শীঘ্রই আপনার সাথে যোগাযোগ করব।", "error": "কিছু ভুল হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।", "form": {"name": "নাম", "namePlaceholder": "আপনার নাম লিখুন", "nameError": "অনুগ্রহ করে আপনার নাম লিখুন।", "email": "ইমেইল ঠিকানা", "emailPlaceholder": "আপনার ইমেইল লিখুন", "emailError": "অনুগ্রহ করে একটি বৈধ ইমেইল ঠিকানা লিখুন।", "service": "প্রয়োজনীয় সেবা", "choose": "বেছে নিন...", "message": "বার্তা", "messagePlaceholder": "আপনার বার্তা লিখুন", "messageError": "অনুগ্রহ করে আপনার বার্তা লিখুন।", "submit": "জমা দিন"}}, "footer": {"description": "অ্যাপ্লায়েন্স মেরামতের জন্য আপনার ওয়ান-স্টপ সমাধান।", "contact": "যোগাযোগ করুন"}}
+{
+  "nav": {
+    "brand": "KP এন্টারপ্রাইজ",
+    "services": "সেবা",
+    "about": "আমাদের সম্পর্কে",
+    "contact": "যোগাযোগ করুন",
+    "book": "এখনই বুক করুন"
+  },
+  "hero": {
+    "title": "বিশেষজ্ঞ যন্ত্রপাতি মেরামত সেবা",
+    "subtitle": "আপনার সমস্ত ঘরোয়া যন্ত্রপাতির জন্য দ্রুত, নির্ভরযোগ্য এবং সাশ্রয়ী মেরামতের সমাধান।",
+    "button": "শুরু করুন"
+  },
+  "services": {
+    "title": "আমাদের সেবা",
+    "items": [
+      {
+        "title": "এসি মেরামত",
+        "description": "সব ধরনের এয়ার কন্ডিশনারের জন্য বিশেষজ্ঞ নির্ণয় এবং মেরামত।"
+      },
+      {
+        "title": "ফ্রিজ সেবা",
+        "description": "আমাদের রক্ষণাবেক্ষণ এবং মেরামত সেবা দিয়ে আপনার ফ্রিজ দক্ষতার সাথে চালান।"
+      },
+      {
+        "title": "রেফ্রিজারেটর মেরামত",
+        "description": "কুলিং সমস্যা থেকে ভাঙা আইস মেকার পর্যন্ত, আমরা সবকিছু ঠিক করি।"
+      },
+      {
+        "title": "ওয়াশিং মেশিন সেবা",
+        "description": "আমরা লিকেজ থেকে স্পিন সাইকেল সমস্যা পর্যন্ত সবকিছু হ্যান্ডেল করি।"
+      }
+    ]
+  },
+  "about": {
+    "title": "কেন আমাদের বেছে নেবেন?",
+    "features": [
+      {
+        "title": "সার্টিফাইড টেকনিশিয়ান",
+        "description": "যেকোনো মেরামত হ্যান্ডেল করার জন্য আমাদের টিম সম্পূর্ণ প্রশিক্ষিত এবং সার্টিফাইড।"
+      },
+      {
+        "title": "24/7 প্রাপ্যতা",
+        "description": "আপনাকে সেবা দেওয়ার জন্য আমরা চব্বিশ ঘন্টা প্রস্তুত।"
+      },
+      {
+        "title": "পূর্ব-নির্ধারিত মূল্য",
+        "description": "কোনো লুকোচুরি ফি নেই। শুরু করার আগেই আপনাকে স্পষ্ট মূল্য দেওয়া হবে।"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "items": [
+      {
+        "name": "Rajesh Kumar",
+        "location": "Chennai",
+        "text": "Excellent service! My AC was repaired the same day I called. The technician was very professional and knowledgeable. "
+      },
+      {
+        "name": "Priya Sharma",
+        "location": "Thiruvallur",
+        "text": "Great experience with KP Enterprises. They fixed my refrigerator at a very reasonable price. Highly recommend!"
+      },
+      {
+        "name": "Amit Patel",
+        "location": "Avadi",
+        "text": "Fast and reliable service. My washing machine broke down and they fixed it in a few hours. Would use again. "
+      }
+    ]
+  },
+  "serviceAreas": {
+    "title": "Areas We Serve",
+    "areas": [
+      "Chennai",
+      "Thiruvallur",
+      "Avadi",
+      "Poonamallee",
+      "Ambattur",
+      "Anna Nagar",
+      "T. Nagar",
+      "Adyar"
+    ]
+  },
+  "contact": {
+    "title": "Book a Service or Contact Us",
+    "success": "Thank you for your request! We will contact you shortly. ",
+    "error": "Something went wrong. Please try again. ",
+    "form": {
+      "name": "নাম",
+      "namePlaceholder": "আপনার নাম লিখুন",
+      "nameError": "অনুগ্রহ করে আপনার নাম লিখুন।",
+      "email": "ইমেইল ঠিকানা",
+      "emailPlaceholder": "আপনার ইমেইল লিখুন",
+      "emailError": "অনুগ্রহ করে বৈধ ইমেইল ঠিকানা লিখুন।",
+      "service": "Need Service",
+      "choose": "Choose...",
+      "message": "বার্তা",
+      "messagePlaceholder": "আপনার বার্তা লিখুন",
+      "messageError": "অনুগ্রহ করে আপনার বার্তা লিখুন।",
+      "submit": "জমা দিন"
+    }
+  },
+  "footer": {
+    "description": "Your one-stop solution for appliance repairs.",
+    "contact": "Contact Us"
+  },
+  "reviewForm": {
+    "title": "Leave a Review",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your full name",
+    "location": "Your Location",
+    "locationPlaceholder": "Enter your area (Chennai, Thiruvallur, Avadi, etc.)",
+    "text": "Your Review",
+    "textPlaceholder": "Write your experience with our services",
+    "submit": "Submit Review",
+    "success": "Thank you for your review! It has been published successfully.",
+    "error": "There was an error submitting your review. Please try again."
+  },
+  "bookingStatus": {
+    "title": "Check Your Booking Status",
+    "bookingId": "Booking ID",
+    "bookingIdPlaceholder": "Enter your booking ID (e.g., BK001)",
+    "check": "Check Status",
+    "notFound": "Booking not found. Please check your booking ID and try again.",
+    "statuses": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    }
+  }
+}

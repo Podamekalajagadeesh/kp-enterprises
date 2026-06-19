@@ -1,1 +1,134 @@
-{"nav": {"brand": "KP एंटरप्राइज", "services": "सेवाएं", "about": "असांगे बारे", "contact": "संपर्क करो", "book": "हुन बुक करो"}, "hero": {"title": "माहिर उपकरण मरम्मत सेवाएं", "subtitle": "तुहाड़े सारे घरेलू उपकरणें लेई तेज़, भरोसेमंद ते सस्ती मरम्मत हल।", "button": "शुरू करो"}, "services": {"title": "असांगी सेवाएं", "items": [{"title": "एसी मरम्मत", "description": "सारे किस्म दे एअर कंडीशनरें लेई माहिर जांच ते मरम्मत।"}, {"title": "कूलर सेवा", "description": "असांगी रखरखाव ते मरम्मत सेवाएं नाल तुहाड़ा कूलर कुशलता नाल चलाओ।"}, {"title": "रेफ्रिजरेटर मरम्मत", "description": "कूलिंग समस्याओं ते लै के टुट्टे आइस मेकर्स तगर, असां सब ठीक करदे आं।"}, {"title": "वॉशिंग मशीन सेवा", "description": "असां लीकेज ते लै के स्पिन साइकिल दी समस्या तगर सब कुछ संभालदे आं।"}]}, "about": {"title": "क्यूंकर असां क्यूं चुनो?", "features": [{"title": "प्रमाणित टेक्नीशियन", "description": "असांगी टीम कन्नै वी मरम्मत संभालन लेई पूरी तरीके नाल सिखाया गेदा ते प्रमाणित ऐ।"}, {"title": "24/7 उपलब्धता", "description": "तुहाड़ी सेवा करन लेई असां चौबीसों घंटे उपलब्ध आं।"}, {"title": "आगे दा मूल्य", "description": "कोई छुपा हुआ फीस नईं। असां शुरू करने तों पहले तुहाड़े के स्पष्ट मूल्य मिलदा ऐ।"}]}, "contact": {"title": "सेवा बुक करो जां संपर्क करो", "success": "तुहाड़ी बेनती लेई धन्यवाद! असां जल्दी ते जल्दी तुहाड़े नाल संपर्क करांगे।", "error": "कुछ गलत हो गया। कृपा करके दुबारा कोशिश करो।", "form": {"name": "नांव", "namePlaceholder": "आपणां नांव लिखो", "nameError": "कृपा करके आपना नांव लिखो।", "email": "ईमेल पत्ता", "emailPlaceholder": "आपणां ईमेल लिखो", "emailError": "कृपा करके एक वैध ईमेल पत्ता लिखो।", "service": "लोड़च दी सेवा", "choose": "चुनो...", "message": "संदेश", "messagePlaceholder": "आपणां संदेश लिखो", "messageError": "कृपा करके आपना संदेश लिखो।", "submit": "जमा करो"}}, "footer": {"description": "उपकरण मरम्मत लेई तुहाड़ा वन-स्टॉप हल।", "contact": "असां नाल संपर्क करो"}}
+{
+  "nav": {
+    "brand": "KP एन्टरप्राइजेज",
+    "services": "सेवा",
+    "about": "आम्बारे बारे",
+    "contact": "संपर्क करो",
+    "book": "अभी बुक करो"
+  },
+  "hero": {
+    "title": "विशेषज्ञ उपकरण मरम्मत सेवा",
+    "subtitle": "तुमरा सब घरेलू उपकरणनि खातिर तेज, भरोसामंद आ सस्ता मरम्मत समाधान।",
+    "button": "शुरू करो"
+  },
+  "services": {
+    "title": "आमार सेवा",
+    "items": [
+      {
+        "title": "एसी मरम्मत",
+        "description": "सब तरहा के एयर कंडीशनरनि खातिर विशेषज्ञ जांच आ मरम्मत।"
+      },
+      {
+        "title": "फ्रिज सेवा",
+        "description": "आमार देखभाल आ मरम्मत सेवा संग तुमरा फ्रिज कुशलता से चलावो।"
+      },
+      {
+        "title": "फ्रिज मरम्मत",
+        "description": "कूलिंग समस्या से टूटल आइस मेकर तक, आमि सब ठीक करब।"
+      },
+      {
+        "title": "वाशिंग मशीन सेवा",
+        "description": "आमि लीकेज से स्पिन साइकिल समस्या तक सब हैंडल करब।"
+      }
+    ]
+  },
+  "about": {
+    "title": "के लेले आमके चुनब?",
+    "features": [
+      {
+        "title": "प्रमाणित टेक्नीशियन",
+        "description": "जेकोनो मरम्मत हैंडल करबा खातिर आमार टीम पूरी तरहा प्रशिक्षित आ प्रमाणित।"
+      },
+      {
+        "title": "24/7 उपलब्ध",
+        "description": "तुमके सेवा देबा खातिर आमि चब्बिस घन्टा उपलब्ध।"
+      },
+      {
+        "title": "पूर्व-निर्धारित मूल्य",
+        "description": "केउ लुका फिस नई। शुरू करबा आगे तुमके स्पष्ट मूल्य मिलब।"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "items": [
+      {
+        "name": "Rajesh Kumar",
+        "location": "Chennai",
+        "text": "Excellent service! My AC was repaired the same day I called. The technician was very professional and knowledgeable. "
+      },
+      {
+        "name": "Priya Sharma",
+        "location": "Thiruvallur",
+        "text": "Great experience with KP Enterprises. They fixed my refrigerator at a very reasonable price. Highly recommend!"
+      },
+      {
+        "name": "Amit Patel",
+        "location": "Avadi",
+        "text": "Fast and reliable service. My washing machine broke down and they fixed it in a few hours. Would use again. "
+      }
+    ]
+  },
+  "serviceAreas": {
+    "title": "Areas We Serve",
+    "areas": [
+      "Chennai",
+      "Thiruvallur",
+      "Avadi",
+      "Poonamallee",
+      "Ambattur",
+      "Anna Nagar",
+      "T. Nagar",
+      "Adyar"
+    ]
+  },
+  "contact": {
+    "title": "Book a Service or Contact Us",
+    "success": "Thank you for your request! We will contact you shortly. ",
+    "error": "Something went wrong. Please try again. ",
+    "form": {
+      "name": "नाम",
+      "namePlaceholder": "तुमरा नाम लिखो",
+      "nameError": "कृपया तुमरा नाम लिखो।",
+      "email": "इमेल पता",
+      "emailPlaceholder": "तुमरा इमेल लिखो",
+      "emailError": "कृपया वैध इमेल पता लिखो।",
+      "service": "Need Service",
+      "choose": "Choose...",
+      "message": "संदेश",
+      "messagePlaceholder": "तुमरा संदेश लिखो",
+      "messageError": "कृपया तुमरा संदेश लिखो।",
+      "submit": "जमा करो"
+    }
+  },
+  "footer": {
+    "description": "Your one-stop solution for appliance repairs.",
+    "contact": "Contact Us"
+  },
+  "reviewForm": {
+    "title": "Leave a Review",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your full name",
+    "location": "Your Location",
+    "locationPlaceholder": "Enter your area (Chennai, Thiruvallur, Avadi, etc.)",
+    "text": "Your Review",
+    "textPlaceholder": "Write your experience with our services",
+    "submit": "Submit Review",
+    "success": "Thank you for your review! It has been published successfully.",
+    "error": "There was an error submitting your review. Please try again."
+  },
+  "bookingStatus": {
+    "title": "Check Your Booking Status",
+    "bookingId": "Booking ID",
+    "bookingIdPlaceholder": "Enter your booking ID (e.g., BK001)",
+    "check": "Check Status",
+    "notFound": "Booking not found. Please check your booking ID and try again.",
+    "statuses": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    }
+  }
+}
